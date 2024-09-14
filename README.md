@@ -1,5 +1,5 @@
 # Medical_Insurance_Premium_Prediction_ML
-I Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP).
+I completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP).
 
 # About the project :
 The objective of the project is to build a Machine Learning model to forecast annual medical insurance premium based on given customer data.
